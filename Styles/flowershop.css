@@ -150,9 +150,9 @@ body{
 }
 .insta-cont{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     max-width: 100%;
-    gap:10px;
+    gap:20px;
     width: 100%;
 }
 .insta-pic{
@@ -186,7 +186,7 @@ body{
     display: flex;
     text-align: center;
     padding-bottom: 100px;
-    justify-content: center;
+    justify-content:center;
     max-width: 100%;
     margin: auto;
     gap: 10px;
