@@ -50,8 +50,12 @@ body{
 }
 .sec-title{
     text-align: center;
+    font-size: 30px;
+    font-weight: 800;
 }
 .sec-des{
+    font-size: 14px;
+    color: #272727;
     text-align: center;
     padding-left: 200px;
     padding-right: 200px;
@@ -63,6 +67,7 @@ body{
     margin-left: 100px;
     display: flex;
     justify-content: center;
+    max-width: 100%;
     gap: 20px;
     height: 400px;
 }
@@ -71,23 +76,29 @@ body{
     padding:100px 30px 0px 30px;
  
     border-radius: 45% 45% 0% 0% ;
-    width: 400px;
+    width: 300px;
     
 }
 .pic-sec12{
     background-color: rgb(202, 195, 206);
     padding:100px 30px 0px 30px;
     border-radius: 45% 45% 0% 0% ;
-    width: 400px;
+    width: 300px;
     
 }
 .pic-sec13{
     background-color: rgb(230, 177, 197);
     padding:100px 30px 0px 30px;
     border-radius: 45% 45% 0% 0% ;
-    width: 400px;
+    width: 300px;
 }
 .featured-pic{
     width: 300px;
     height: 300px;
+}
+.pic-title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+
 }
