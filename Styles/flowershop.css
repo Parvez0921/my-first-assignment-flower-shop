@@ -110,13 +110,35 @@ body{
     background-color: #ece2e4;
     align-items: center;
     justify-content: space-between;
-    padding: 50px 200px 50px  50px;
+    padding: 50px 200px 30px  50px;
     margin-bottom: 100px;
 }
-
+.but-second{
+    text-align: center;
+    margin-left: 300px;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #E55473;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 20px;
+    border: none;
+}
 .deal-inf{
     width: 50%;
 }
 .pink{
     color: #E55473;
+}
+/* instagram section */
+.instagram-sec{
+    margin: 50px 150px;
+}
+.insta-cont{
+    display: flex;
+    gap:10px;
+    width: 100%;
+}
+.insta-pic{
+    width: 250px;
 }
