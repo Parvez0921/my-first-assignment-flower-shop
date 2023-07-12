@@ -57,8 +57,8 @@ body{
     font-size: 14px;
     color: #272727;
     text-align: center;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
     margin-top: 10px;
     margin-bottom: 80px;
     
@@ -70,6 +70,7 @@ body{
     max-width: 100%;
     gap: 20px;
     height: 400px;
+    margin-bottom: 200px;
 }
 .pic-sec11{
     background-color: aqua;
@@ -95,10 +96,27 @@ body{
 .featured-pic{
     width: 300px;
     height: 300px;
+    margin-bottom: -5px;
 }
 .pic-title{
     font-size: 20px;
     font-weight: 600;
     text-align: center;
 
+}
+/*hot deal section*/
+.hot-deal-section{
+    display: flex;
+    background-color: #ece2e4;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 200px 50px  50px;
+    margin-bottom: 100px;
+}
+
+.deal-inf{
+    width: 50%;
+}
+.pink{
+    color: #E55473;
 }
