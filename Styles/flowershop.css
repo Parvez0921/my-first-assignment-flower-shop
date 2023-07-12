@@ -188,3 +188,28 @@ body{
     padding: 15px;
     border: none;
 }
+footer{
+    background-color: #111010;
+    padding: 100px 200px;
+}
+.white{
+    color: #FFFFFF;
+}
+.foot-des{
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+.ending{
+    font-size: 10px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
