@@ -3,3 +3,41 @@ body{
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
+/*header styles*/
+.banner{
+    display: flex;
+    margin: 0px;
+    background-color: rgba(130, 233, 224, 0.877);
+    padding: 50px 200px 0px 150px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    
+}
+.banner-info{
+    max-width: 400px;
+    margin-bottom: 80px;
+}
+.banner-head{
+    font-size: 60px;
+    font-weight: 800;
+    color: #272727;
+}
+.banner-des{
+    font-size: 15px;
+    font-weight: 400;
+    color: #272727;
+    margin-bottom: 50px;
+}
+.but-prim{
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #E55473;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 20px;
+    border: none;
+}
+.banner-pic{
+    width: 500px;
+}
